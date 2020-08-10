@@ -1,0 +1,14 @@
+name: "GISsite"
+output_dir: "."
+navbar:
+  title: "Shannon's Geography 176A Website"
+  left:
+    - text: "Home"
+      icon: fa-home
+      href: index.html
+    - text: "GIS Work"
+      icon: fa-github
+      href: geog176A.html
+output:
+  html_document:
+    theme: cosmo

@@ -1,0 +1,19 @@
+---
+title: "Projects"
+---
+
+
+This summer I took Geography 176a which was a GIS class based in R. Throughout the class we learned how to use Rstudio and present data in  a meaningful way.
+
+## [Building a project website]()
+<ul class="fa-ul">
+  <li><i class="fa-li fa fa-spinner fa-spin"></i>For this project I learned how to create a website using Rstudio and Github.</li> 
+  <li><i class="fa-li fa fa-spinner fa-spin"></i>In this project I learned how to create a navigation bar on a website.</li>
+  <li><i class="fa-li fa fa-spinner fa-spin"></i>I also learned how to insert images and links into code that would display on said website.</li>
+</ul>
+
+<i class="fa fa-globe fa-5x" style="color:green;" aria-hidden="true"></i>
+<i class="fa fa-plus fa-2x" style="color:black;" aria-hidden="true"></i>
+<i class="fa fa-r-project fa-5x" style="color:blue;" aria-hidden="true"></i>
+<i class="fa fa-equals fa-2x" style="color:black;" aria-hidden="true"></i>
+<i class="fa fa-heart fa-spin fa-5x" style="color:red;" aria-hidden="true"></i>
