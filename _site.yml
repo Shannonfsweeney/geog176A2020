@@ -11,7 +11,7 @@ navbar:
       href: geog176A.html
     - text: "Shannon Sweeney"
       icon: fa-smile-o
-      href: shannonsweeney.rmd
+      href: shannonsweeney.html
 output:
   html_document:
     theme: cosmo
